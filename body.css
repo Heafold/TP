@@ -1,0 +1,40 @@
+body {
+    background: rgb(184, 16, 161);
+    background: linear-gradient(155deg, rgba(184, 16, 161, 0) 18%, rgba(173, 13, 129, 0.24129930394431554) 38%, rgba(233, 255, 0, 0.25986078886310904) 100%);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.milieu {
+    height: 20%;
+    margin-top: 10%;
+    text-align: center;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.milieu h1 {
+    font-size: 50px;
+}
+
+.milieu p {
+    font-size: 20px;
+    line-height: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background-color: rgb(255, 217, 0);
+    border-radius: 20px;
+}
+
+.getstarted {
+    margin-top: 3%;
+}
